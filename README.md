@@ -29,4 +29,6 @@
 8. Sirve sobre papas cocidas, decora con huevo duro y aceitunas.
 9. Acompaña con arroz blanco.
 
+![Aji de gallina](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV7nCw5iTcNZ6ul_M7E8zwXA6ObmZwHV7SOkEsb-DQD6HK6tJS4--t8Cvv77483RkqXNji9JzH5n6rpiRgggz0rJlba3api6TtTrIKocM)
+
 ## ¡Buen provecho!
