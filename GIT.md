@@ -1,6 +1,6 @@
 # Comandos de Git
 
-Para cloncar un repositorio usamos
+Para clonar un repositorio usamos
 ```
 git clone <url>
 ```
@@ -17,6 +17,19 @@ git status
 Selecciona que voy a subir
 
 ``
-git sadd <nombre_archivo>
+git add <nombre_archivo>
 ``
+### 🚀Paso 02 Flujo ACP (add)
+Escribimos el comentario con que subirá este archivo git
 
+``
+git commit -m "Comentario"
+``
+### 🚀Paso 03 Flujo ACP (push)
+Enviamos los cambios de nuestros repositorios remotos
+
+``
+git push origin <rama>
+git push origin main
+
+``
